@@ -7,4 +7,5 @@ public class Student {
     private String weight;
     private double height;
     private String book;
+    private String pc;
 }
