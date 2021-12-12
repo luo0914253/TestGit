@@ -6,4 +6,5 @@ public class Student {
     private String sex;
     private String weight;
     private double height;
+    private String book;
 }
